@@ -1,7 +1,12 @@
 
 # FrozenDesertSaleForecasting using TimeSeries-RNNs
 
-![](demo.gif)
+<p float="left">
+<img src=Datatrends.png width="30%" >
+<img src=forecasted compare.png width="30%" >
+  <img src=actualforecast.png width="30%" >
+
+</p>
 
 
 
